@@ -1,0 +1,9 @@
+dispatch:
+  - url: "sosimpleagency.com/*"
+    service: default
+  - url: "www.sosimpleagency.com/*"
+    service: default
+  - url: "ajansyildiz.com/*"
+    service: ajansyildiz-web
+  - url: "www.ajansyildiz.com/*"
+    service: ajansyildiz-web
