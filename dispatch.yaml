@@ -4,6 +4,6 @@ dispatch:
   - url: "www.ajansyildiz.com/*"
     service: ajansyildiz-web
   - url: "sosimpleagency.com/*"
-    service: default
+    service: sosimpleagency-web
   - url: "www.sosimpleagency.com/*"
-    service: default
+    service: sosimpleagency-web
